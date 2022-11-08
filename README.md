@@ -28,3 +28,12 @@ I then spent a few years as a technology journalist for the most part writing, a
 Which is how I ended up where I am today, heading up documentation for Raspberry Pi.
 
 It all sort of made sense at the time.
+
+### How to reach me 📫 
+
+* <a rel="me" href="https://twitter.com/aallan">Twitter</a>
+* <a rel="me" href="https://mastodon.social/@aallan">Mastodon</a>
+* <a rel="me" href="https://https://www.linkedin.com/in/alasdairallan/">LinkedIn</a>
+* <a rel="me" href="https://www.instagram.com/aallan/">Instagram</a>
+
+
