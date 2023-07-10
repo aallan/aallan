@@ -32,6 +32,7 @@ It all sort of made sense at the time.
 ### How to reach me 📫 
 
 * <a rel="me" href="https://twitter.com/aallan">Twitter</a>
+* <a rel="me" href="https://www.threads.net/@aallan">Threads</a>
 * <a rel="me" href="https://mastodon.social/@aallan">Mastodon</a>
 * <a rel="me" href="https://staging.bsky.app/profile/aallan.bsky.social">Bluesky</a>
 * <a rel="me" href="https://www.linkedin.com/in/alasdairallan/">LinkedIn</a>
