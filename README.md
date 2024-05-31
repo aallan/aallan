@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Alasdair Allan, and these days I'm in charge of writing things down at Raspberry Pi.
+My name is Alasdair Allan, I work as a consultant and journalist focusing on open hardware, machine learning, data science, and emerging technologies — with expertise in electronics, especially wireless devices, distributed sensor networks, and embedded computing.
 
 I’ve actually had a pretty odd path to where I am now, I’m on my third, maybe fourth career now. I started as an astrophysicist, doing research into the high-energy physics of collision shocks in accretion disks surrounding white dwarf stars. But then I sort of drifted sideways into playing with the toys.
 
@@ -25,7 +25,7 @@ In fact I got really rather interested in sensors and mashing them together with
 
 I then spent a few years as a technology journalist for the most part writing, and talking, about the maker movement and the sometimes new (and sometimes recycled) things that were happening there. Laterly, I also did a bunch of work around the new Tiny ML movement, the folks attempting to cram machine learning inferencing onto microcontrollers, and while I was doing that I spent a lot of time talking to the folks at Raspberry Pi.
 
-Which is how I ended up where I am today, heading up documentation for Raspberry Pi.
+Which is how I ended up heading up documentation for Raspberry Pi leading the the pre-launch effort to document RP2040 microcontroller and Raspberry Pi Pico board and other new products, including the flagship Raspberry Pi 5. After leaving Raspberry Pi I have gone back to writing and talking about the things that interest me.
 
 It all sort of made sense at the time.
 
