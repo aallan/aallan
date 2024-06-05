@@ -25,9 +25,11 @@ In fact I got really rather interested in sensors and mashing them together with
 
 I then spent a few years as a technology journalist for the most part writing, and talking, about the maker movement and the sometimes new (and sometimes recycled) things that were happening there. Laterly, I also did a bunch of work around the new Tiny ML movement, the folks attempting to cram machine learning inferencing onto microcontrollers, and while I was doing that I spent a lot of time talking to the folks at Raspberry Pi.
 
-Which is how I ended up heading up documentation for Raspberry Pi leading the the pre-launch effort to document RP2040 microcontroller and Raspberry Pi Pico board and other new products, including the flagship Raspberry Pi 5. After leaving Raspberry Pi I have gone back to writing and talking about the things that interest me.
+Which is how I ended up heading up documentation for Raspberry Pi leading the the pre-launch effort to document their new RP2040 microcontroller and Raspberry Pi Pico board and other new products, including the flagship Raspberry Pi 5. 
 
-It all sort of made sense at the time.
+After leaving Raspberry Pi I have gone back to writing and talking about the things that interest me.
+
+All of this sort of made sense at the time.
 
 ### How to reach me 📫 
 
